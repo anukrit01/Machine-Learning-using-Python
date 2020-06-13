@@ -7,3 +7,4 @@ NOTE:
 3. china_gdp.csv dataset is for Non-Linear Regression implementation.
 4. FuelConsumptionCo2.csv dataset is for Simple Linear Regression implementtation.
 5. ChurnData.csv dataset is for Logistic Regression implementation.
+6. cell_samples.csv dataset is for SVM implementation.
