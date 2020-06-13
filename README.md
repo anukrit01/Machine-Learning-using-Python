@@ -8,3 +8,5 @@ NOTE:
 4. FuelConsumptionCo2.csv dataset is for Simple Linear Regression implementtation.
 5. ChurnData.csv dataset is for Logistic Regression implementation.
 6. cell_samples.csv dataset is for SVM implementation.
+7. Cust_Segmentation.csv dataset is for K-Means Clustering implementation.
+8. cars_clus.csv dataset is for Hierarchical Clustering implementation.
