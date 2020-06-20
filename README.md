@@ -11,3 +11,6 @@ NOTE:
 7. Cust_Segmentation.csv dataset is for K-Means Clustering implementation.
 8. cars_clus.csv dataset is for Hierarchical Clustering implementation.
 9. weather-stations.csv dataset is for DBSCAN Clustering implementation.
+10. The dataset for Content-based Recommendation System implementation can be
+    downloaded from the link given below:-
+    https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip
